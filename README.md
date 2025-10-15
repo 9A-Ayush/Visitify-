@@ -72,13 +72,6 @@ Visitify/
 
 ---
 
-## 📸 Demo & Design
-
-- 🎨 **Figma Design:** [Visitify UI on Figma](https://www.figma.com/design/JjiIYOj2nT8DJunTEIbaut/Gate-Ease-2?node-id=0-1&t)
-- 💻 **GitHub Repository:** [Visitify Project on GitHub](https://github.com/9A-Ayush)
-- 🌐 **Web App Demo:** [Visitify Web App](https://your-visitify-pwa-link.com)
-
----
 
 ## 📋 Short Description
 
