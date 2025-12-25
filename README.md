@@ -6,7 +6,7 @@ It provides three interconnected modules — a **PWA for visitors**, a **Flutter
 The system ensures real-time tracking, visitor verification, and smooth entry approval using modern technologies like **Flutter, Firebase, and Cloudinary**.
 
 <p align="center">
-  <a href="https://curevia-download.vercel.app" download>
+  <a href="https://vistify-apk.vercel.app" download>
     <img src="https://img.shields.io/badge/⬇_Download_Visitify_BETA_APK-blue?style=for-the-badge&logo=android" alt="Download Visitify APK">
   </a>
 </p>
